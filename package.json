@@ -1,0 +1,28 @@
+{
+  "name": "react-native-simple-tablayout",
+  "version": "0.0.5",
+  "description": "A tablayout or tab navigation in which you can customize its tabs property and its indicator by passing appropriate props",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native-tablayout",
+    "tablayout",
+    "react-native-tab-navigation",
+    "tab navigation",
+    "react-native tabnavigation",
+    "tab-layout",
+    "react-native-top-tabview"
+  ],
+  "author": "kishan , <kishankumar001122@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/git-kishan/react-native-tablayout.git"
+  },
+  "bugs": {
+    "url": "https://github.com/git-kishan/react-native-tablayout/issues"
+  },
+  "homepage": "https://github.com/git-kishan/react-native-tablayout#readme"
+}
